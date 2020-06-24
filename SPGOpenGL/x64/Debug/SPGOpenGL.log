@@ -1,0 +1,30 @@
+﻿  main.cpp
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Bowling.h(82,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Bowling.h(83,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Bowling.h(108,1): warning C4267: 'argument': conversion from 'size_t' to 'GLsizei', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Ball.h(22,22): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Ball.h(49,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Ball.h(56,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Ball.h(57,1): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Ball.h(92,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Ball.h(93,24): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(45,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(46,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(47,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(48,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(49,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(50,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(51,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(52,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(53,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(54,1): warning C4305: 'argument': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(119,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(122,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(128,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(131,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(137,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(138,1): warning C4305: '-=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(144,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(145,1): warning C4305: '+=': truncation from 'double' to 'float'
+C:\Users\Mihai\Desktop\Proiect_SPG\SPGOpenGL\Game.h(156,1): warning C4305: '+=': truncation from 'double' to 'float'
+  SPGOpenGL.vcxproj -> C:\Users\Mihai\Desktop\Proiect_SPG\x64\Debug\SPGOpenGL.exe
